@@ -89,6 +89,7 @@ void setup() {
   pinMode(BTN4,  INPUT_PULLUP);
   pinMode(BTN5,  INPUT_PULLUP);
   pinMode(BTN6,  INPUT_PULLUP);
+  
 }
 
 void loop() {
